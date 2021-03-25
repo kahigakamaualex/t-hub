@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060997405451",
+    "project_id": "android-authentication-413c7",
+    "storage_bucket": "android-authentication-413c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060997405451:android:822bcf59975817add0e00e",
+        "android_client_info": {
+          "package_name": "com.example.tourme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060997405451-fbgtsacjg9rj13mun24mkcm22fjn2k7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourme",
+            "certificate_hash": "c343e83bae0e8917063efb62e5360a5938cf94e3"
+          }
+        },
+        {
+          "client_id": "1060997405451-tjlkierol4narpbm64bc61agv9ck2ldf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ADj3luBDgP4H2vSfXVFq3erMePeimVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060997405451-tjlkierol4narpbm64bc61agv9ck2ldf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

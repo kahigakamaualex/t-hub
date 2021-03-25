@@ -1,0 +1,168 @@
+.container{
+margin-top: 70px;
+}
+.navbar-inverse{
+  background-color:#143405;
+  height: 60px;
+}
+.navbar-right{
+margin-right: 4px;
+}
+.panel-footer{
+  margin-bottom: 0;
+  background-color:#143405;
+}
+.bg{
+  background-color: #e6e6e6;
+ padding: 10px 15px 30px 20px;
+ border-radius: 4px;
+}
+#footer{
+    background-color:#1b1b34;
+    color: white;
+    padding-bottom: 15px;
+}
+.breadcrumb{
+  background-color: #1b1b34;
+}
+.cont{
+color:white;
+padding-top: 50px;
+padding-left: 50px;
+
+}
+.open-button {
+
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: inherit;
+  border: 1px solid white;
+}
+.profile_area{
+margin-top: 0px;
+border:2px #e6e6e6 solid;
+display: inline-grid;
+background-color: #e6e6e6;
+}
+.hd{
+  border-bottom:  2px #e6e6e6 solid;
+  display: block;
+  padding-bottom: 15px;
+}
+.btn-r{
+  text-align: left;
+}
+.glyphicon-chevron-right{
+  float: right;
+}
+.frm{
+  border: 2px #e6e6e6 solid;
+  padding:12px 0px 10px 8px;
+}
+.nav-col{
+  padding-top: 17px;
+}
+.view-area{
+  border: 2px #e6e6e6 solid;
+  background-color: #e6e6e6;
+  padding:12px 0px 10px 8px;
+}
+.upd{
+  border: 2px #e6e6e6 solid;
+}
+.img_area{
+  background-color: #e6e6e6;
+}
+#line{
+border: 2px #fff solid;
+background-color: #e6e6e6;
+  padding:12px 0px 10px 8px;
+}
+.badge{
+  float:right;
+}
+.loaded_msg{
+  height: 100%;
+}
+#scroll_messages{
+height: 100%;
+overflow-y: scroll;
+
+}
+.txt{
+  border-radius: 12px;
+}
+.brd{
+  border: 2px solid #e6e6e6;
+}
+.message{
+}
+.create_btn{
+  float: right;
+}
+.event_show{
+  border-bottom: 2px solid #e6e6e6;
+  padding-bottom: 12px;
+
+}
+#mynav{
+  background-color: inherit;
+}
+
+.fa-thumbs-down, .fa-thumbs-o-down{
+  transform: rotateY(180deg);
+}
+i{
+font-weight: bolder;
+font-size: 6px;
+  color:143405;
+}
+.tr{
+  border: 2px solid #e6e6e6;
+  padding: 12px 12px 12px 12px;
+}
+.text{
+  border-radius: 25px;
+}
+.btn-right{
+  float: right;
+  border: none;
+  position: relative;
+  margin-top: -35px;
+  margin-right:10px;
+  color:blue;
+  background-color: white;
+
+}
+.like_btn{
+  float: right;
+}
+
+#play{
+  background-color: #e6e6e6;
+  border-radius: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+  max-width: 80%;
+    display: block;
+}
+.btv{
+  border:none;
+}
+
+.coms{
+  background-color: #e6e6e6;
+  padding: 10px;
+  border-radius: 17px;
+    width: auto;
+}
+.coms1{
+  padding-bottom: 15px;
+}
+.btn-delete{
+  border:none;
+  margin-left: 7px;
+}
