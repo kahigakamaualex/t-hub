@@ -59,7 +59,10 @@
                 <br>
                 <h3 class="text-center"><b>Our <span style="color:red">Team</span></b></h3>
                 <p>
-                    T-hub was founded by Felix Omondi in may 2019.We have only developed the website version of the
+                    T-hub was founded by Felix Omondi and Alex Kamau in may 2020.We have only developed the website
+                    version
+                    of
+                    the
                     system.The android version of the system is still under development.
                 </p>
                 <div class="rows">
